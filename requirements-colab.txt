@@ -1,0 +1,7 @@
+# Colab ships torch; these pins match the versions the code was tested with
+transformers==5.22.2
+peft==0.21.2
+accelerate==1.15.0
+bitsandbytes>=0.45
+gradio>=4.44
+tabulate

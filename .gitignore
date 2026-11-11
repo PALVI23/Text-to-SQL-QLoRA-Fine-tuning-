@@ -1,0 +1,7 @@
+artifacts/
+results/
+data/
+.smoke/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

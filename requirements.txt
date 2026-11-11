@@ -1,0 +1,13 @@
+torch
+transformers==5.22.2
+peft==0.21.2
+accelerate==1.15.0
+bitsandbytes>=0.45; platform_system == "Linux"
+numpy
+pandas
+pyarrow
+scipy
+matplotlib
+seaborn
+gradio>=4.44
+tabulate
